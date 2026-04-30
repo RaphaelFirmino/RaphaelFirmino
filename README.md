@@ -15,3 +15,5 @@ MY SPECIALTIES:
 - AI: Currently exploring and integrating Artificial Intelligence solutions to add more value to products.
 
 I am open to challenges where I can apply my end-to-end vision to build and scale impactful digital products.
+
+*Note: A significant portion of my engineering work from 2021 to 2025 is tied to private corporate repositories and enterprise Git accounts that are not reflected in this personal contribution graph.*
